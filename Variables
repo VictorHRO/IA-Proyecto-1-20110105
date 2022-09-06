@@ -1,6 +1,0 @@
-
-
-
-mensaje = "Bienvenidos al curso de Python"
-print(mensaje)
-
